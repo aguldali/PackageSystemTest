@@ -1,0 +1,16 @@
+{
+  "name": "com.asger.testpack",
+  "version": "1.0.0",
+  "displayName": "ASGER Test Pack",
+  "description": "This package contains test prefabs.",
+  "unity": "2020.3",
+  "unityRelease": "2f1",
+  "keywords": [
+    "asger",
+    "test",
+    "prefab"
+  ],
+  "dependencies": {
+    "com.microsoft.mixedreality.toolkit.examples": "2.6.0"
+  }
+}
